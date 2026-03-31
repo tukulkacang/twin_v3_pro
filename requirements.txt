@@ -1,0 +1,7 @@
+requests
+pandas
+numpy
+python-dotenv
+pyyaml
+sqlalchemy
+ta  # untuk indikator teknis (opsional)
